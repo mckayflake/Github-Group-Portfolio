@@ -7,7 +7,7 @@ This repository contains the code and documentation developed as part of the MSB
 ## Business Problem  
 Swire Coca-Cola operates a network of six production plants and nearly 50 distribution centers across 13 states in the Western US. Unplanned machinery failures cause unpredictable downtime, leading to significant revenue loss-estimated at nearly $60 million annually. These failures result in halted production, decreased product availability, urgent repair costs, and delayed distribution schedules.
 
-## Key Objective  
+## Objective  
 The primary objective of this project is to develop predictive solutions to anticipate machinery failures, minimize downtime, and improve operational efficiency.
 
 ## Solution  
