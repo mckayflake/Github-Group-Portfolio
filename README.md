@@ -5,7 +5,7 @@
 This repository contains the code and documentation developed as part of the MSBA Capstone project for Swire Coca-Cola. The project aims to reduce maintenance costs and minimize downtime by predicting machinery failures in Swire Coca-Cola’s bottling operations.
 
 ## Business Problem  
-Swire Coca-Cola operates a network of six production plants and nearly 50 distribution centers across 13 states in the Western US. Unplanned machinery failures cause unpredictable downtime, leading to significant revenue loss—estimated at nearly $60 million annually. These failures result in halted production, decreased product availability, urgent repair costs, and delayed distribution schedules.
+Swire Coca-Cola operates a network of six production plants and nearly 50 distribution centers across 13 states in the Western US. Unplanned machinery failures cause unpredictable downtime, leading to significant revenue loss-estimated at nearly $60 million annually. These failures result in halted production, decreased product availability, urgent repair costs, and delayed distribution schedules.
 
 ## Key Objective  
 The primary objective of this project is to develop predictive solutions to anticipate machinery failures, minimize downtime, and improve operational efficiency.
