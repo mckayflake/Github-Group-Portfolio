@@ -49,4 +49,4 @@ These documents provide a comprehensive overview of how the predictive models an
 ---
 
 ## Acknowledgment  
-We extend our gratitude to **Swire Coca-Cola**, our sponsor, for their support and insights throughout the project. We also thank our faculty advisor, **Professor Jeff Webb**, for his valuable guidance and recommendations during the project development. Lastly, we appreciate the collaborative efforts of all team members in delivering meaningful results.
+We extend our gratitude to **Swire Coca-Cola**, our sponsor, for their support and insights throughout the project. We also thank our faculty advisor, **Professor Jeff Webb**, for his valuable guidance and recommendations during the project development. Lastly, we appreciate the collaborative efforts of **all team members** in delivering meaningful results.
